@@ -1,0 +1,2 @@
+total number count is 6
+total number count is 60
